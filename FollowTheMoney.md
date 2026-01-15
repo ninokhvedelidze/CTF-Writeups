@@ -122,7 +122,7 @@ Using Arkham Intelligence for geographic attribution, the suspect’s location w
 37.774929, -122.419416.
 </b>
 
-<h1>Final Flag Successfully Captured</h1>
+<h1>Final Flag Successfully Captured. Thank you for your time!</h1>
 
 <img width="887" height="820" alt="image" src="https://github.com/user-attachments/assets/c943dac9-a98b-4573-b4b9-bde0da665051" />
 
